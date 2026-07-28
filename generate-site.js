@@ -76,7 +76,7 @@ img{max-width:100%;height:auto;display:block}
 .logo-mark img{height:100%;width:auto;border-radius:4px;display:block}
 .logo-text-group{display:flex;flex-direction:column;gap:2px}
 .logo-text{font-family:var(--font-display);font-size:1.2rem;font-weight:700;letter-spacing:0.08em;color:var(--gold-1);text-shadow:0 0 20px rgba(212,175,105,0.2)}
-.logo-sub{font-size:.7rem;color:var(--text-muted);letter-spacing:.3px}
+.logo-sub{font-size:.8rem;color:var(--text-muted);letter-spacing:.3px}
 .logo-sub a{color:var(--text-muted)}.logo-sub a:hover{color:var(--gold-2)}
 .header-actions{display:flex;align-items:center;gap:14px}
 .header-badge-sm{display:flex;align-items:center;gap:7px;padding:6px 16px;border-radius:2px;border:1px solid rgba(212,175,105,0.15);font-size:.72rem;color:var(--gold-2);font-weight:500;letter-spacing:0.08em}
